@@ -62,6 +62,8 @@ The drag-drop schematic is provided by the @angular/cdk and can be used to gener
 
 `ng generate @angular/cdk:drag-drop <component-name>`
 
+Reference : https://material.angular.io/guide/schematics
+
 ============================================================================
 
 ## Development server
